@@ -1,15 +1,28 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-jupyter
-notebook
-scipy
-joblib
-xgboost
-lightgbm
-tensorflow
-keras
+# Bibliotecas essenciais de Machine Learning e Data Science
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+scipy>=1.13.0
+
+# Visualização de dados
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Jupyter notebooks
+jupyterlab>=4.0.0
+notebook>=7.0.0
+
+# Processamento de linguagem natural
 nltk
-spacy
+spacy>=3.7.0
+
+# Deep Learning
+tensorflow>=2.15.0
+keras>=2.15.0
+
+# Modelos avançados
+xgboost>=2.0.0
+lightgbm>=4.3.0
+
+# Utilitários
+joblib>=1.4.0
