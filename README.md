@@ -1,37 +1,35 @@
-# 🚀 Repositório de Estudos em Machine Learning  
+# Machine Learning Studies Repository
 
-Bem-vindo ao meu repositório de algoritmos de Machine Learning!  
-Aqui compartilho códigos simples e didáticos para aprender os conceitos básicos e avançados de ML.  
+Welcome to my Machine Learning algorithms repository!
 
-## 📂 Conteúdo  
+Here I share simple and didactic codes to learn the basic and advanced concepts of ML.
 
-- **Algoritmos clássicos**: Regressão, Classificação, Clustering.  
-- **Redes Neurais**: Implementações básicas em PyTorch/TensorFlow.  
-- **Datasets**: Exemplos com dados prontos para teste.  
-- **Notebooks**: Tutoriais passo a passo.  
+## Contents
 
-## ▶️ Como Usar  
+- **Classic Algorithms**: Regression, Classification, Clustering.
+- **Neural Networks**: Basic implementations in PyTorch/TensorFlow.
+- **Datasets**: Examples with data ready for testing.
+- **Notebooks**: Step-by-step tutorials.
 
-1. Clone o repositório:  
-```bash  
-git clone https://github.com/Filip3Owl/algoritmos-aprendizado-maquina
-```  
+## How to Use
 
-2. Acesse a pasta do algoritmo que deseja testar e execute:  
-```bash  
-python nome_do_algoritmo.py  
-```  
+1. Clone the repository:
 
-## 🤝 Contribuições  
+```bash
 
-Sugestões e melhorias são bem-vindas! Basta abrir uma **Issue** ou enviar um **Pull Request**.  
+git clone https://github.com/Filip3Owl/algorithms-aprendizado-maquina
+```
 
----  
+2. Access the folder of the algorithm you want to test and run:
 
+```bash
 
-*(Repositório em constante evolução!)*  
+python name_of_algorithm.py
 
----  
+```
 
-### 🔧 Próximas Atualizações  
-- [ ] Incluir explicações em markdown  
+## Contributions
+
+Suggestions and improvements are welcome! Just open an **Issue** or send a **Pull Request**.
+
+---
