@@ -26,3 +26,7 @@ lightgbm>=4.3.0
 
 # Utilitários
 joblib>=1.4.0
+
+# Outros
+
+BeautifulSoup
