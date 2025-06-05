@@ -29,4 +29,4 @@ joblib>=1.4.0
 
 # Outros
 
-BeautifulSoup
+beautifulsoup4
