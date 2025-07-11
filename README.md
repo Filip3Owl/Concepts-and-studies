@@ -10,6 +10,7 @@ Here I share simple and didactic codes to learn the basic and advanced concepts 
 - **Neural Networks**: Basic implementations in PyTorch/TensorFlow.
 - **Datasets**: Examples with data ready for testing.
 - **Notebooks**: Step-by-step tutorials.
+- **Chatbots**: Chatbot design.
 
 ## How to Use
 
